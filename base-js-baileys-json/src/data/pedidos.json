@@ -1,0 +1,19 @@
+[
+  {
+    "fecha": "2024-09-15T22:52:11.800Z",
+    "NombreCliente": "iasasd",
+    "pedido": [
+      "asdfafsd",
+      "askdjasd",
+      "asdasd"
+    ]
+  },
+  {
+    "fecha": "2024-09-15T22:53:51.590Z",
+    "NombreCliente": "isaac",
+    "pedido": [
+      "paracetamol",
+      "refresco"
+    ]
+  }
+]

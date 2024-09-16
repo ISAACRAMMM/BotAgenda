@@ -1,0 +1,117 @@
+[
+  {
+    "ref": "19e0f0c2-ba7f-4b5d-9fc8-9dcaebe8e7a9",
+    "keyword": "c89a9b7628a6dfb169dd0e084b4291b4",
+    "answer": "hola",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "b43ffb54-6662-4b1c-b146-7b2677e43042",
+    "keyword": "79e7fc16f7fb85373fd25a99390f44c0",
+    "answer": "hola",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "ans_e64c22b2-cd16-42e0-a1a0-01790e265ace",
+    "keyword": "key_885e8eea-f3a5-4d83-84f6-53bd6356fd60",
+    "answer": "Hola bienvenido...\nMenu:\n1. Catalogo de productos\n2. Realizar pedido\n3. Ayuda",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "a82bb85605fc8974bfed2dbc925dafeb",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "ans_a12249b7-8991-4c84-93f0-89df0574d74b",
+    "keyword": "ans_e64c22b2-cd16-42e0-a1a0-01790e265ace",
+    "answer": "_Ingresa el numero de la opcion o el nombre de la opcion_",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ef8cee1681ec8e097ead25c2b3ba153a",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "ans_6afe2330-a22d-42be-8809-d70fc0550558",
+    "keyword": "ans_a12249b7-8991-4c84-93f0-89df0574d74b",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8ceee453aacec3d820c204bec7d4a7c0",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "ans_095325cf-1bb3-4b73-bc3e-355ea90b9890",
+    "keyword": "ans_6afe2330-a22d-42be-8809-d70fc0550558",
+    "answer": "I share with you the following links of interest about the project\n👉 *doc* to view the documentation",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 800,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "35506d9cb2681942f9ee8dac7efc2446",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "ans_dd0a15c7-1332-403f-a9f7-244a4f920228",
+    "keyword": "ans_095325cf-1bb3-4b73-bc3e-355ea90b9890",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 800,
+      "nested": [
+        {
+          "ref": "key_2d51cf9a-4ead-45cc-9178-e30d832521d5",
+          "keyword": "doc",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5a8225144cb89933cbe2a9a3d251d9a2"
+        },
+        {
+          "ref": "ans_c22c80fe-1310-47ad-96c1-ab8525fe4808",
+          "keyword": "key_2d51cf9a-4ead-45cc-9178-e30d832521d5",
+          "answer": "You can see the documentation here\n📄 https://builderbot.app/docs \n\nDo you want to continue? *yes*",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "304c71d4c432ea8d7d42b751a2a63771"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "07a1684487595186821ca046e9525e9a",
+    "from": "5213171121534"
+  }
+]
