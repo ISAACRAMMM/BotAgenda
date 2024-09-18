@@ -15,5 +15,16 @@
       "paracetamol",
       "refresco"
     ]
+  },
+  {
+    "fecha": "2024-09-18T01:32:23.438Z",
+    "NombreCliente": "Isaac",
+    "ruta": "Autlan",
+    "pedido": [
+      "Paracetamol",
+      "Loratadina",
+      "Pepsi",
+      "Listo"
+    ]
   }
 ]

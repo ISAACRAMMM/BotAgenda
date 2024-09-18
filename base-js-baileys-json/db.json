@@ -1,24 +1,24 @@
 [
   {
-    "ref": "19e0f0c2-ba7f-4b5d-9fc8-9dcaebe8e7a9",
-    "keyword": "c89a9b7628a6dfb169dd0e084b4291b4",
-    "answer": "hola",
+    "ref": "3474d5f4-8407-4bab-98da-782f7e3162a2",
+    "keyword": "07a1684487595186821ca046e9525e9a",
+    "answer": "Holq",
     "options": {},
     "from": "5213171121534",
-    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+    "refSerialize": "18271accb9e3e308907210566a5fa8fe"
   },
   {
-    "ref": "b43ffb54-6662-4b1c-b146-7b2677e43042",
-    "keyword": "79e7fc16f7fb85373fd25a99390f44c0",
-    "answer": "hola",
+    "ref": "380882f8-e1c3-4f62-89fd-688c3641cc32",
+    "keyword": "18271accb9e3e308907210566a5fa8fe",
+    "answer": "Hola",
     "options": {},
     "from": "5213171121534",
-    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
   },
   {
-    "ref": "ans_e64c22b2-cd16-42e0-a1a0-01790e265ace",
-    "keyword": "key_885e8eea-f3a5-4d83-84f6-53bd6356fd60",
-    "answer": "Hola bienvenido...\nMenu:\n1. Catalogo de productos\n2. Realizar pedido\n3. Ayuda",
+    "ref": "ans_8b4fdff0-fcdb-45a5-9182-176eaa66f5a4",
+    "keyword": "key_65211c3f-2925-48a9-a0e3-1da254bb0bdf",
+    "answer": "Hola bienvenido...\n*Menu:*\n1. Catalogo de productos\n2. Realizar pedido\n3. Ayuda",
     "options": {
       "buttons": [],
       "capture": false,
@@ -27,12 +27,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "a82bb85605fc8974bfed2dbc925dafeb",
+    "refSerialize": "ac898e9b0e604b9b78dcb76978fcd27d",
     "from": "5213171121534"
   },
   {
-    "ref": "ans_a12249b7-8991-4c84-93f0-89df0574d74b",
-    "keyword": "ans_e64c22b2-cd16-42e0-a1a0-01790e265ace",
+    "ref": "ans_b5429b38-50cb-4497-a1c5-c3c0a53e3ab5",
+    "keyword": "ans_8b4fdff0-fcdb-45a5-9182-176eaa66f5a4",
     "answer": "_Ingresa el numero de la opcion o el nombre de la opcion_",
     "options": {
       "buttons": [],
@@ -42,12 +42,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "ef8cee1681ec8e097ead25c2b3ba153a",
+    "refSerialize": "7c29a44bb6aa7071a6ed54b6bc0a9bf0",
     "from": "5213171121534"
   },
   {
-    "ref": "ans_6afe2330-a22d-42be-8809-d70fc0550558",
-    "keyword": "ans_a12249b7-8991-4c84-93f0-89df0574d74b",
+    "ref": "ans_ea39669f-01f5-40fc-a228-c9997bfe4e6b",
+    "keyword": "ans_b5429b38-50cb-4497-a1c5-c3c0a53e3ab5",
     "answer": "__call_action__",
     "options": {
       "buttons": [],
@@ -57,12 +57,12 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "8ceee453aacec3d820c204bec7d4a7c0",
+    "refSerialize": "8d9e63a16690ec3011bde0ea16935124",
     "from": "5213171121534"
   },
   {
-    "ref": "ans_095325cf-1bb3-4b73-bc3e-355ea90b9890",
-    "keyword": "ans_6afe2330-a22d-42be-8809-d70fc0550558",
+    "ref": "ans_0bf44979-747f-4385-854f-25e9b3b9fc9d",
+    "keyword": "ans_ea39669f-01f5-40fc-a228-c9997bfe4e6b",
     "answer": "I share with you the following links of interest about the project\n👉 *doc* to view the documentation",
     "options": {
       "buttons": [],
@@ -72,12 +72,12 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "35506d9cb2681942f9ee8dac7efc2446",
+    "refSerialize": "b6d4420e1ce1ff268272b3fdfa9ed035",
     "from": "5213171121534"
   },
   {
-    "ref": "ans_dd0a15c7-1332-403f-a9f7-244a4f920228",
-    "keyword": "ans_095325cf-1bb3-4b73-bc3e-355ea90b9890",
+    "ref": "ans_94a61eb9-9a4c-42d7-9449-63545696333d",
+    "keyword": "ans_0bf44979-747f-4385-854f-25e9b3b9fc9d",
     "answer": "__capture_only_intended__",
     "options": {
       "buttons": [],
@@ -85,7 +85,7 @@
       "delay": 800,
       "nested": [
         {
-          "ref": "key_2d51cf9a-4ead-45cc-9178-e30d832521d5",
+          "ref": "key_72e8d2ae-c78d-4731-b49e-1d24dc051006",
           "keyword": "doc",
           "options": {
             "sensitive": false,
@@ -94,8 +94,8 @@
           "refSerialize": "5a8225144cb89933cbe2a9a3d251d9a2"
         },
         {
-          "ref": "ans_c22c80fe-1310-47ad-96c1-ab8525fe4808",
-          "keyword": "key_2d51cf9a-4ead-45cc-9178-e30d832521d5",
+          "ref": "ans_e23b2636-3093-4093-b46e-8e6d5583245e",
+          "keyword": "key_72e8d2ae-c78d-4731-b49e-1d24dc051006",
           "answer": "You can see the documentation here\n📄 https://builderbot.app/docs \n\nDo you want to continue? *yes*",
           "options": {
             "buttons": [],
@@ -105,13 +105,270 @@
             "keyword": {},
             "callback": true
           },
-          "refSerialize": "304c71d4c432ea8d7d42b751a2a63771"
+          "refSerialize": "327012a54c3167144d627aa59d098e7c"
         }
       ],
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "07a1684487595186821ca046e9525e9a",
+    "refSerialize": "430daa72ed66500b11bc85a2c48d6442",
     "from": "5213171121534"
+  },
+  {
+    "ref": "ccf8ec30-d4f7-441d-81b7-64674623ef08",
+    "keyword": "430daa72ed66500b11bc85a2c48d6442",
+    "answer": "2",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_94a61eb9-9a4c-42d7-9449-63545696333d",
+    "keyword": "ans_0bf44979-747f-4385-854f-25e9b3b9fc9d",
+    "answer": "You should type *doc*",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 800,
+      "nested": [
+        {
+          "ref": "key_72e8d2ae-c78d-4731-b49e-1d24dc051006",
+          "keyword": "doc",
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5a8225144cb89933cbe2a9a3d251d9a2"
+        },
+        {
+          "ref": "ans_e23b2636-3093-4093-b46e-8e6d5583245e",
+          "keyword": "key_72e8d2ae-c78d-4731-b49e-1d24dc051006",
+          "answer": "You can see the documentation here\n📄 https://builderbot.app/docs \n\nDo you want to continue? *yes*",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "327012a54c3167144d627aa59d098e7c"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "430daa72ed66500b11bc85a2c48d6442",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "dcc53ee5-6ea9-4d3f-9a91-562c35b60f7a",
+    "keyword": "430daa72ed66500b11bc85a2c48d6442",
+    "answer": "Doc",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "d11fb00fe6cd908c8560f0c85ad7835a"
+  },
+  {
+    "ref": "ans_e23b2636-3093-4093-b46e-8e6d5583245e",
+    "keyword": "key_72e8d2ae-c78d-4731-b49e-1d24dc051006",
+    "answer": "You can see the documentation here\n📄 https://builderbot.app/docs \n\nDo you want to continue? *yes*",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "327012a54c3167144d627aa59d098e7c",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "76cc7912-6b71-4308-a375-459354abb984",
+    "keyword": "327012a54c3167144d627aa59d098e7c",
+    "answer": "Yes",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "5c0864550a7ae64046236427c3dd9e30"
+  },
+  {
+    "ref": "ans_69440da4-db57-4630-afdb-e205080b6f46",
+    "keyword": "key_c0debbcc-beb0-45c8-9008-2747fc32ab59",
+    "answer": "Cual es tú nombre",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9851d93fb157469adb445a5a05a9b294",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "3c610716-17fc-4697-a87d-e4f2c70bab58",
+    "keyword": "9851d93fb157469adb445a5a05a9b294",
+    "answer": "Isaac",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "9dc583861eedc9d78f48958910a5a28c"
+  },
+  {
+    "ref": "f733fe63-a477-4539-b897-ac08dd288e88",
+    "keyword": null,
+    "answer": "Hola Isaac",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5213171121534",
+    "refSerialize": "9f5355215764ca539efa4fb6bb56f35c"
+  },
+  {
+    "ref": "ans_a7aea33d-9544-41dc-ac6e-cd4799c3345f",
+    "keyword": "ans_69440da4-db57-4630-afdb-e205080b6f46",
+    "answer": "ingresa tu pedido producto por producto\nAl terminar tu pedido di *listo*",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "803160c0e0e725ecc746d10e627f10f7",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "ans_23c7030a-e29f-40b5-8854-423abceed855",
+    "keyword": "ans_a7aea33d-9544-41dc-ac6e-cd4799c3345f",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5bf7140f69f1503f8522f1914f3e2528",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "d52f7557-f782-4628-afd1-65333a99ef90",
+    "keyword": "5bf7140f69f1503f8522f1914f3e2528",
+    "answer": "Paracetamol",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "3b7489dc3846541d1a8a8b23ab830a41"
+  },
+  {
+    "ref": "ans_23c7030a-e29f-40b5-8854-423abceed855",
+    "keyword": "ans_a7aea33d-9544-41dc-ac6e-cd4799c3345f",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5bf7140f69f1503f8522f1914f3e2528",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "a0e398b1-ccdc-44a4-88c1-5dcb65630aff",
+    "keyword": "5bf7140f69f1503f8522f1914f3e2528",
+    "answer": "Loratadina",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "cd723f3cb79a62a7043050e2b8c9b08f"
+  },
+  {
+    "ref": "ans_23c7030a-e29f-40b5-8854-423abceed855",
+    "keyword": "ans_a7aea33d-9544-41dc-ac6e-cd4799c3345f",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5bf7140f69f1503f8522f1914f3e2528",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "0e06c705-1f9a-4a24-a047-e0490a9e4b59",
+    "keyword": "5bf7140f69f1503f8522f1914f3e2528",
+    "answer": "Pepsi",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "dff8b4cb44d2eb47d98d0258f99d7d90"
+  },
+  {
+    "ref": "ans_23c7030a-e29f-40b5-8854-423abceed855",
+    "keyword": "ans_a7aea33d-9544-41dc-ac6e-cd4799c3345f",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5bf7140f69f1503f8522f1914f3e2528",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "2cd67c40-c344-4331-800c-6f5be40cb719",
+    "keyword": "5bf7140f69f1503f8522f1914f3e2528",
+    "answer": "Listo",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "897b8f72752ba0a3f0a1e4a0843b02ba"
+  },
+  {
+    "ref": "ans_23c7030a-e29f-40b5-8854-423abceed855",
+    "keyword": "ans_a7aea33d-9544-41dc-ac6e-cd4799c3345f",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "5bf7140f69f1503f8522f1914f3e2528",
+    "from": "5213171121534"
+  },
+  {
+    "ref": "2d9d9091-07f0-40f6-935f-2825a74d43ef",
+    "keyword": "5bf7140f69f1503f8522f1914f3e2528",
+    "answer": "listo",
+    "options": {},
+    "from": "5213171121534",
+    "refSerialize": "2fed6791ee59e2647b973645f3f14845"
+  },
+  {
+    "ref": "92342114-a393-4dee-bb49-b490de479867",
+    "keyword": null,
+    "answer": "Pedido cerrado",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5213171121534",
+    "refSerialize": "4a9642eca89099d8bc897d71223e997e"
   }
 ]
